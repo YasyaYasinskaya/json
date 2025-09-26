@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background-color: #ecedf2;
+}
+
+
+header {
+    background-color: #001e4b;
+    color: white;
+    font-size: x-large;
+    padding: 10px;
+    text-align: center;
+}
+
+
+main {
+    margin: 15px;
+}
+
+
+.item {
+    background-color: white;
+    border: 2px solid #a37d15;
+    border-radius: 5px;
+    padding-left: 15px;
+    margin-top: 10px;
+}
